@@ -1,8 +1,8 @@
-# netflix-clone :movie_camera:
+# netflix-clone 
 
-#### Esse projeto tem o intuito de fazer com que eu aprenda a fazer códigos em html5, CSS3, JavaScript e aumentar minha experiência na área :books:. 
+#### Esse projeto tem o intuito de aprimorar minha proficiência com códigos em Html5, CSS3, JavaScript e JQuery e também aumentar minha experiência na área de desenvolvimento web. 
 
-#### Sinta-se livre para fazer melhorias ao código, e subir as mesmas aqui. Obrigado pela atenção! :smiley:
+#### Sinta-se livre para fazer melhorias ao código ou estudá-lo! Obrigado pela atenção! 
 
 ![](img/netflix-clone.png)
 
